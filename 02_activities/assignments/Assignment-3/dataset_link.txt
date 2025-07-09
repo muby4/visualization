@@ -1,0 +1,6 @@
+Dataset Information
+Title: Outbreaks in Toronto Healthcare Institutions
+Source: City of Toronto Open Data Portal
+Accessed: July 2025
+Link to Dataset:
+https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/outbreaks-in-toronto-healthcare-institutions
